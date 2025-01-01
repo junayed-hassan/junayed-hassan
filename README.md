@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+Usama+Forayeje!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hey+there!+👋;+I'm+junayde+hassan!" />
 </h1>
 
 
@@ -30,7 +30,7 @@
 🌱 I’m currently learning **MERN Stack** 
 
 💬 Ask me about **Node.js, React, Firebase... or anything 
-[here](https://github.com/usama-forayeje)** 
+[here](https://github.com/junayed-hassan)** 
 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱🧣
 
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center"> 
-    <a href="mailto:usamaforayaje@gmail.com">
+    <a href="mailto:junayed-hassan@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.linkedin.com/in/junayed-hassan/" target="_blank">
@@ -61,21 +61,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
-<hr/>
-
-
-
-
-
-
-<br/>
-<hr/>
-
-
-
-
-<hr/>
 <div align="center">
-    <h4>Made with ❤️ by <strong>Usama Forayeje</strong></h4>
+    <h4>Made with ❤️ by <strong>junayed-hassan</strong></h4>
 </div>
