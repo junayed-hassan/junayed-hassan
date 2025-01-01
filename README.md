@@ -21,7 +21,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 
 ## 🛠️ My Toolkit
 ### Languages
-- 🧑‍💻 **Proficient**: JavaScript, Python, C++, HTML, CSS
+- 🧑‍💻 **Proficient**: JavaScript, HTML, CSS
 - 🌱 **Exploring**: Rust, Go, TypeScript, Dart
 
 ### Frameworks & Libraries
