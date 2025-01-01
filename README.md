@@ -44,10 +44,10 @@
     <a href="mailto:usamaforayaje@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://www.linkedin.com/in/usama-forayaje/" target="_blank">
+    <a href="https://www.linkedin.com/in/junayed-hassan/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/usama-forayeje" target="_blank">
+    <a href="https://github.com/junayed-hassan" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
@@ -65,32 +65,8 @@
 <hr/>
 
 
-<div align="center">
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-</picture>
-    <br/><br/>
-</div>
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake-dark.svg" />
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
- <img alt="github-snake" src="https://raw.githubusercontent.com/usama-forayeje/usama-forayeje/output/github-snake.svg" />
-</picture>
 
 
-<hr/>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
 
 <br/>
