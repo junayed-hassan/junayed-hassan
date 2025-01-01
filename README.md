@@ -97,14 +97,7 @@
 <hr/>
 
 
-<div align="center">
 
-### 🔝 Top Contributed Repo
-
-<!-- Top contributed repos section with responsive image width -->
-<img width="400" align="center" src="https://github-contributor-stats.vercel.app/api?username=usama-forayeje&limit=4&theme=react&combine_all_yearly_contributions=true&border_radius=10&size_weight=0.5&count_weight=0.5&layout=compact" alt="top repos"/>
-
-</div>
 
 <hr/>
 <div align="center">
