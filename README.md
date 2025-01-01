@@ -3,14 +3,14 @@
 
 <div align="right" >
 <a href="https://wakatime.com/@a266f62a-327f-4ed8-9c14-79e70cc54b70"><img src="https://wakatime.com/badge/user/a266f62a-327f-4ed8-9c14-79e70cc54b70.svg" alt="Total time coded since Nov 28 2024" /></a>
-  <img  src="https://visitor-badge.laobi.icu/badge?page_id=usama-forayeje" />
+  <img  src="https://visitor-badge.laobi.icu/badge?page_id=junayed-hassan" />
 </div>
 
 
 
 <div align="left" >
-    <a href="https://github.com/usama-forayeje" target="_blank">
-    <img src="https://img.shields.io/github/followers/usama-forayeje?label=Follow&style=social" alt="GitHub Follow">
+    <a href="https://github.com/junayed-hassan" target="_blank">
+    <img src="https://img.shields.io/github/followers/junayed-hassan?label=Follow&style=social" alt="GitHub Follow">
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 🌱 I’m currently learning **MERN Stack Development** 
 
 💬 Ask me about **Node.js, React, Firebase... or anything 
-[here](https://github.com/usama-forayeje)** 
+[here](https://github.com/junayed-hassan)** 
 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs**! 😱🧣
 
@@ -52,7 +52,7 @@
     <a href="https://www.linkedin.com/in/usama-forayaje/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/usama-forayeje" target="_blank">
+    <a href="https://github.com/junayed-hassan" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
@@ -91,10 +91,10 @@
 <br>
 
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=usama-forayeje&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=usama-forayeje&count_private=true&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=junayed-hassan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=junayed-hassan&count_private=true&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
     <br/>
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usama-forayeje&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 
 
 </div>
