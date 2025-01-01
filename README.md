@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
     <!-- First Row of Icons -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,jquery,redux" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,bootstrap,tailwind,jquery,redux" />
     <br>
     <!-- Second Row of Icons -->
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,babel" />
