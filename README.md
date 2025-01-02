@@ -80,12 +80,12 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 
 ## 🌐 Connect with Me
 - 🌐 **Website**: [junayedhassan.dev](https://junayedhasan.vercel.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/junayed-hassan](#)
-- 🐦 **Twitter**: [@junayed_hassan](#)
-- 📧 **Email**: junayed.hassan@example.com
+- 💼 **LinkedIn**: [linkedin.com/in/junayed-hassan](in/junayed-hassan)
+- 🐦 **Twitter**: [@junayed_hassan](https://x.com/JHassan96185)
+- 📧 **Email**: junayedhassan102045@gmail.com
 - 📝 **Blog**: [My Developer Journal](#)
 - 🎥 **YouTube**: [Tech Talks with Junayed](#)
-- 🎮 **Discord**: [Join My Community](#)
+- 🎮 **Discord**: [Join My Community](https://discord.com/channels/@me)
 
 ---
 
