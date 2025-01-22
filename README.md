@@ -79,7 +79,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 ### 1. [Innovative E-Commerce Platform](#)
 - 🛒 **Description**: Built a scalable e-commerce solution with dynamic user experiences and integrated payment gateways.
 - 🔧 **Tech Stack**: React, Node.js, MongoDB, Redis
-- 🌍 [Live Demo](#)
+- 🌍 [Live Demo](https://junayed-ai.vercel.app/)
 
 ### 2. [AI-Powered Chat Application](#)
 - 🤖 **Description**: Developed a chat app leveraging AI for real-time translation, sentiment analysis, and multilingual support.
