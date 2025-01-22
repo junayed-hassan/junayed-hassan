@@ -81,6 +81,24 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 🔧 **Tech Stack**: React, Node.js, MongoDB, Redis
 - 🌍 [Live Demo](https://junayed-ai.vercel.app/)
 
+### [Innovative E-Commerce Platform](https://junayed-ai.vercel.app/)
+- 🛒 **Description**: Built a scalable e-commerce solution with dynamic user experiences and integrated payment gateways to provide seamless shopping.  
+- 🔧 **Tech Stack**:  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)  
+
+- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)  
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/your-repo-name)  
+
+#### 📸 **Screenshots**  
+| Homepage | Product Page | Checkout |  
+|----------|--------------|----------|  
+| ![Homepage](https://via.placeholder.com/300x200.png?text=Homepage) | ![Product Page](https://via.placeholder.com/300x200.png?text=Product+Page) | ![Checkout](https://via.placeholder.com/300x200.png?text=Checkout) |  
+
+
+
 ### 2. [AI-Powered Chat Application](#)
 - 🤖 **Description**: Developed a chat app leveraging AI for real-time translation, sentiment analysis, and multilingual support.
 - 🔧 **Tech Stack**: Python, Flask, TensorFlow
