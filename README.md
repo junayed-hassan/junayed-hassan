@@ -79,7 +79,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 ### 1. [Junayed AI](https://junayed-ai.vercel.app/)
 - 🤖 **Description**:  
   Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
-- 🔧 **Tech Stack**: React, Node.js, MongoDB, Redis
+- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
 - 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 
@@ -91,21 +91,6 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 ### 3. [Portfolio Showcase](#)
 - 🎨 **Description**: Designed a visually stunning portfolio site to highlight skills, achievements, and projects.
 - 🔧 **Tech Stack**: Next.js, Tailwind CSS
-- 🌍 [Live Demo](#)
-
-### 4. [Real-Time Weather App](#)
-- 🌦️ **Description**: A web app providing real-time weather updates and forecasts with a sleek user interface.
-- 🔧 **Tech Stack**: Vue.js, OpenWeather API
-- 🌍 [Live Demo](#)
-
-### 5. [Financial Tracker App](#)
-- 💰 **Description**: Created a secure and intuitive app for tracking personal finances and budgeting.
-- 🔧 **Tech Stack**: React Native, Firebase
-- 🌍 [Live Demo](#)
-
-### 6. [Collaborative Whiteboard](#)
-- 🖍️ **Description**: A real-time collaborative drawing tool for teams and educators.
-- 🔧 **Tech Stack**: Svelte, WebSockets, Node.js
 - 🌍 [Live Demo](#)
 
 ---
