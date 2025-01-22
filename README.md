@@ -76,10 +76,12 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 
 ## 🌟 Featured Projects
 
-### 1. [Innovative E-Commerce Platform](#)
-- 🛒 **Description**: Built a scalable e-commerce solution with dynamic user experiences and integrated payment gateways.
+### 1. [Junayed AI](https://junayed-ai.vercel.app/)
+- 🤖 **Description**:  
+  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
 - 🔧 **Tech Stack**: React, Node.js, MongoDB, Redis
-- 🌍 [Live Demo](https://junayed-ai.vercel.app/)
+- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 
 ### 2. [AI-Powered Chat Application](#)
 - 🤖 **Description**: Developed a chat app leveraging AI for real-time translation, sentiment analysis, and multilingual support.
