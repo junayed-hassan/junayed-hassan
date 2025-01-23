@@ -83,15 +83,13 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 
-### 2. [AI-Powered Chat Application](#)
-- 🤖 **Description**: Developed a chat app leveraging AI for real-time translation, sentiment analysis, and multilingual support.
-- 🔧 **Tech Stack**: Python, Flask, TensorFlow
-- 🌍 [Live Demo](#)
+### 2. [portfolio website](junayedhasan.netlify.app)
+- 🤖 **Description**: 
+This is a beautifully designed website built with modern technologies, offering a unique digital experience. Enjoy a perfect blend of creativity, innovation, and functionality.
+- 🔧 **Tech Stack**: nextJS tailwindcss ExpressJs mongodb
+- 🌍 [Live Demo](junayedhasan.netlify.app)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/junayedhassan)
 
-### 3. [Portfolio Showcase](#)
-- 🎨 **Description**: Designed a visually stunning portfolio site to highlight skills, achievements, and projects.
-- 🔧 **Tech Stack**: Next.js, Tailwind CSS
-- 🌍 [Live Demo](#)
 
 ---
 
