@@ -90,7 +90,7 @@ This is a beautifully designed website built with modern technologies, offering 
 - 🌍 [Live Demo](junayedhasan.netlify.app)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/junayedhassan)
 
-
+*****************************Additionally, many exciting new projects will be showcased here soon, currently in the development phase. *********************************
 ---
 
 ## 📊 GitHub Stats & Activity
