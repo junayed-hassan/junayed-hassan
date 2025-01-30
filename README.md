@@ -75,8 +75,6 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 ---
 
 ## 🌟 Featured Projects
-Here’s an improved version with better readability, consistency, and a more engaging tone:  
-
 ### 1️⃣ [Junayed AI](https://junayed-ai.vercel.app/)  
 - 🤖 **Description**:  
   Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
@@ -98,8 +96,6 @@ Here’s an improved version with better readability, consistency, and a more en
 - 🌍 **Live Demo**: [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
 ---
-
-This version improves clarity, enhances readability, and makes it more engaging. Let me know if you want any further refinements! 🚀
 
 *****************************Additionally, many exciting new projects will be showcased here soon, currently in the development phase. *********************************
 ---
