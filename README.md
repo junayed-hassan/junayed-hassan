@@ -93,8 +93,8 @@ Here’s an improved version with better readability, consistency, and a more en
 ---  
 ### 3️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
 - 🤖 **Description**:  
-  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
-- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
+  My **Real-Time Chat App** is now complete! This app ensures seamless real-time messaging with a smooth user experience. 💬⚡
+- 🔧 **Tech Stack**: Socket.io, Node.js , Express.js , MongoDB, React and Tailwind CSS
 - 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 ---
