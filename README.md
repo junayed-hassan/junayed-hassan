@@ -86,10 +86,10 @@ Here’s an improved version with better readability, consistency, and a more en
 ---  
 ### 2️⃣ [Portfolio Website](https://junayedhasan.netlify.app)  
 - 🤖 **Description**:  
-  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
-- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
-- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
-- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
+  This is a beautifully designed website built with modern technologies, offering a unique digital experience. Enjoy a perfect blend of creativity, innovation, and functionality
+- 🔧 **Tech Stack**:nextJS tailwindcss ExpressJs mongodb
+- 🌍 **Live Demo**: [Live Demo](junayedhasan.netlify.app)
+- 📂 **GitHub Repository**:[GitHub Link(https://github.com/junayed-hassan/junayedhassan)
 ---  
 ### 3️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
 - 🤖 **Description**:  
