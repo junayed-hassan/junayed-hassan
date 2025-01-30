@@ -78,25 +78,25 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 Here’s an improved version with better readability, consistency, and a more engaging tone:  
 
 ### 1️⃣ [Junayed AI](https://junayed-ai.vercel.app/)  
-🔹 **Description**:  
-An AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.  
-🔹 **Tech Stack**: React, Node.js, Tailwind CSS, Redux.js  
-🔹 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)  
-🔹 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)  
+- 🤖 **Description**:  
+  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
+- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
+- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 ---  
 ### 2️⃣ [Portfolio Website](https://junayedhasan.netlify.app)  
-🔹 **Description**:  
-A beautifully designed personal portfolio website showcasing my skills, projects, and experience. Crafted with modern technologies to deliver a seamless and engaging user experience.  
-🔹 **Tech Stack**: Next.js, Tailwind CSS, Express.js, MongoDB  
-🔹 **Live Demo**: [junayedhasan.netlify.app](https://junayedhasan.netlify.app)  
-🔹 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/junayedhassan)  
+- 🤖 **Description**:  
+  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
+- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
+- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 ---  
-### 3️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)  
-🔹 **Description**:  
-A real-time chat application that ensures seamless and instant messaging with a smooth user experience. Features include real-time updates, efficient message delivery, and a modern UI.  
-🔹 **Tech Stack**: Socket.io, Node.js, Express.js, MongoDB, React, Tailwind CSS  
-🔹 **Live Demo**: [fullstack-chat-app-2-w5wk.onrender.com](https://fullstack-chat-app-2-w5wk.onrender.com/)  
-🔹 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)  
+### 3️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 🤖 **Description**:  
+  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
+- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
+- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 ---
 
 This version improves clarity, enhances readability, and makes it more engaging. Let me know if you want any further refinements! 🚀
