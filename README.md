@@ -90,6 +90,12 @@ This is a beautifully designed website built with modern technologies, offering 
 - 🌍 [Live Demo](junayedhasan.netlify.app)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/junayedhassan)
 
+  ### 2. [Real-time chat application💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 🤖 **Description**: My **Real-Time Chat App** is now complete! This app ensures seamless real-time messaging with a smooth user experience. 💬⚡
+- 🔧 **Tech Stack**: Socket.io, Node.js , Express.js , MongoDB, React and Tailwind CSS
+- 🌍 [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/junayedhassan)
+
 *****************************Additionally, many exciting new projects will be showcased here soon, currently in the development phase. *********************************
 ---
 
