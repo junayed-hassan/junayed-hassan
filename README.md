@@ -81,7 +81,7 @@ Here’s an improved version with better readability, consistency, and a more en
 - 🤖 **Description**:  
   Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
 - 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
-- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
+- 🌍 **Live Demo**: [Live Demo](https://junayed-ai.vercel.app/)
 - 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
 ---  
 ### 2️⃣ [Portfolio Website](https://junayedhasan.netlify.app)  
@@ -95,8 +95,8 @@ Here’s an improved version with better readability, consistency, and a more en
 - 🤖 **Description**:  
   My **Real-Time Chat App** is now complete! This app ensures seamless real-time messaging with a smooth user experience. 💬⚡
 - 🔧 **Tech Stack**: Socket.io, Node.js , Express.js , MongoDB, React and Tailwind CSS
-- 🌍 **Live Demo**: [junayed-ai.vercel.app](https://junayed-ai.vercel.app/)
-- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
+- 🌍 **Live Demo**: [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
 ---
 
 This version improves clarity, enhances readability, and makes it more engaging. Let me know if you want any further refinements! 🚀
