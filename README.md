@@ -96,6 +96,13 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 🌍 **Live Demo**: [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
 ---
+### 4️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 🤖 **Description**:  
+  My **Real-Time Chat App** is now complete! This app ensures seamless real-time messaging with a smooth user experience. 💬⚡
+- 🔧 **Tech Stack**: Socket.io, Node.js , Express.js , MongoDB, React and Tailwind CSS
+- 🌍 **Live Demo**: [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
+- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
+---
 
 *****************************Additionally, many exciting new projects will be showcased here soon, currently in the development phase. *********************************
 ---
