@@ -97,8 +97,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
 ---
 ### 4️⃣ [📚bookstore](https://my-project-bice-three.vercel.app/)
-- 🤖 **Description**:  
-  🛒📚 This is a modern online bookstore, where books can be easily purchased.
+- 🤖 **Description**:🛒📚 This is a modern online bookstore, where books can be easily purchased.
 - 🔧 **Tech Stack**: React and Tailwind CSS
 - 🌍 **Live Demo**: [Live Demo](https://my-project-bice-three.vercel.app/)
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/NewExam)
