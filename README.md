@@ -114,7 +114,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 🌍 **Live Demo**: [Live Demo](https://magenta-dango-20ffae.netlify.app/)
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/Restaurant-js)
 ---
-7️⃣ 8️⃣ 9️⃣***********Additionally, many exciting new projects will be showcased here soon, currently in the development phase. *******************
+7️⃣ 8️⃣ 9️⃣Additionally, many exciting new projects will be showcased here soon, currently in the development phase.
 ---
 
 ## 📊 GitHub Stats & Activity
