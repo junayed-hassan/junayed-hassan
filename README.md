@@ -114,6 +114,16 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 - 🌍 **Live Demo**: [Live Demo](https://magenta-dango-20ffae.netlify.app/)
 - 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/Restaurant-js)
 ---
+
+this is some projects 
+https://my-project-bice-three.vercel.app/
+https://junayedhasan.netlify.app/
+https://fullstack-chat-app-2-w5wk.onrender.com/
+https://junayed-ai.vercel.app/
+https://junayed-hassan.github.io/Restaurant-js/
+https://junayedhasan.vercel.app/
+https://docs-reader-store.vercel.app/
+
 7️⃣ 8️⃣ 9️⃣Additionally, many exciting new projects will be showcased here soon, currently in the development phase.
 ---
 
