@@ -131,7 +131,7 @@ https://docs-reader-store.vercel.app/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junayed-hassan&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&layout=compact&theme=radical&langs_count=8&hide=C%2b%2b,C,Makefile,Objective-C,Java" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
