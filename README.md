@@ -129,15 +129,10 @@ https://docs-reader-store.vercel.app/
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junayed-hassan&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayed-hassan&theme=radical" alt="GitHub Streak"/>
-</p>
-
+## 📊 GitHub Stats & Activity
+![Junayed Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayed-hassan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=junayed-hassan&theme=radical)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junayed-hassan&theme=radical" alt="Profile Summary"/>
 </p>
