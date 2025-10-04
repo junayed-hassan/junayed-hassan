@@ -74,57 +74,7 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 
 ---
 
-## 🌟 Featured Projects
-### 1️⃣ [Junayed AI](https://junayed-ai.vercel.app/)  
-- 🤖 **Description**:  
-  Developed an AI-powered web application similar to Google Gemini or ChatGPT, enabling users to interact with advanced language models for various tasks.
-- 🔧 **Tech Stack**: React, Node.js, tailwindcss , redux.js
-- 🌍 **Live Demo**: [Live Demo](https://junayed-ai.vercel.app/)
-- 📂 **GitHub Repository**: [GitHub Link](https://github.com/junayed-hassan/Junayed-Ai)
----  
-### 2️⃣ [Portfolio Website](https://junayedhasan.netlify.app)  
-- 🤖 **Description**:  
-  This is a beautifully designed website built with modern technologies, offering a unique digital experience. Enjoy a perfect blend of creativity, innovation, and functionality
-- 🔧 **Tech Stack**: nextJS, tailwindcss, ExpressJs, mongodb
-- 🌍 **Live Demo**: [Live Demo](https://junayedhasan.netlify.app/)
-- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/junayedhassan)
----  
-### 3️⃣ [Real-Time Chat Application 💬⚡](https://fullstack-chat-app-2-w5wk.onrender.com/)
-- 🤖 **Description**:  
-  My **Real-Time Chat App** is now complete! This app ensures seamless real-time messaging with a smooth user experience. 💬⚡
-- 🔧 **Tech Stack**: Socket.io, Node.js , Express.js , MongoDB, React and Tailwind CSS
-- 🌍 **Live Demo**: [Live Demo](https://fullstack-chat-app-2-w5wk.onrender.com/)
-- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/fullstack-chat-app)
----
-### 4️⃣ [📚BookStore](https://my-project-bice-three.vercel.app/)
-- 🤖 **Description**:🛒📚 This is a modern online bookstore, where books can be easily purchased.
-- 🔧 **Tech Stack**: React and Tailwind CSS
-- 🌍 **Live Demo**: [Live Demo](https://my-project-bice-three.vercel.app/)
-- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/NewExam)
----
-### 5️⃣ [Restaurant](https://junayed-hassan.github.io/Restaurant-js/)
-- 🤖 **Description**:🛒 This is Restaurant  webSide
-- 🔧 **Tech Stack**:Html, Tailwind CSS, javaScript
-- 🌍 **Live Demo**: [Live Demo](https://junayed-hassan.github.io/Restaurant-js/)
-- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/Restaurant-js)
----
-### 6️⃣ [Restaurant](https://magenta-dango-20ffae.netlify.app/)
-- 🤖 **Description**:🛒 This is Restaurant  webSide
-- 🔧 **Tech Stack**:Html, Tailwind CSS, javaScript
-- 🌍 **Live Demo**: [Live Demo](https://magenta-dango-20ffae.netlify.app/)
-- 📂 **GitHub Repository**:[GitHub Link](https://github.com/junayed-hassan/Restaurant-js)
----
-
-this is some projects 
-https://my-project-bice-three.vercel.app/
-https://junayedhasan.netlify.app/
-https://fullstack-chat-app-2-w5wk.onrender.com/
-https://junayed-ai.vercel.app/
-https://junayed-hassan.github.io/Restaurant-js/
-https://junayedhasan.vercel.app/
-https://docs-reader-store.vercel.app/
-
-7️⃣ 8️⃣ 9️⃣Additionally, many exciting new projects will be showcased here soon, currently in the development phase.
+Additionally, many exciting new projects will be showcased here soon, currently in the development phase.
 ---
 
 ## 📊 GitHub Stats & Activity
