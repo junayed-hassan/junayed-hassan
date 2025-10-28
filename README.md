@@ -72,14 +72,6 @@ Hello! I’m **Junayed Hassan**, a passionate and innovative developer driven by
 </div>
 
 
----
-
-Additionally, many exciting new projects will be showcased here soon, currently in the development phase.
----
-
-## 📊 GitHub Stats & Activity
-
-## 📊 GitHub Stats & Activity
 ![Junayed Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayed-hassan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junayed-hassan&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=junayed-hassan&theme=radical)
