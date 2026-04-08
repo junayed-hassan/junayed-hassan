@@ -55,6 +55,11 @@ const junayed = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0A0A0A?style=flat-square&logo=neon&logoColor=00E599)
+![Neon PostgreSQL](https://img.shields.io/badge/Neon-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon-Serverless%20PostgreSQL-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square)
 
 ### 🎨 Frontend
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
