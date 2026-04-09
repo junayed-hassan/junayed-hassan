@@ -186,26 +186,6 @@ const junayed = {
 
 ---
 
-## 🏆 Awards & Achievements
-
-| 🏅 Award | 📍 Issued By | 📅 Year |
-|----------|------------|--------|
-| 🥇 **Best Developer Award** | Ahmed's IT Institute — Farewell Ceremony | 2025 |
-| 🎖️ **Exam Reward — Challenge** | Ahmed's IT Institute | 2024 |
-
----
-
-## 🎓 Education & Certifications
-
-| 📚 Degree / Certificate | 🏫 Institution | 📅 Year |
-|------------------------|--------------|--------|
-| Full-Stack Web Development (MERN) | Ahmed's IT Institute, Dhaka | 2024 |
-| FullStack Developer Certificate | Coursera | 2024 |
-| Master's in Islamic Studies | Jamia Rahmania Arabia, Dhaka | 2023 |
-| Islamic Studies Certification | Jamia Rahmania Arabia, Dhaka | 2023 |
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Great!
