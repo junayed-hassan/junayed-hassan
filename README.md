@@ -72,7 +72,7 @@ const junayed = {
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logo=letsencrypt&logoColor=white)
-![reCAPTCHA v3](https://img.shields.io/badge/reCAPTCHA%20v3-Security-4285F4?style=flat-square&logo=google&logoColor=white)
+![reCAPTCHA v3](https://img.shields.io/badge/Google%20reCAPTCHA%20v3-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### 🤖 AI Integration
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
