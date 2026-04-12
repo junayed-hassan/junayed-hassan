@@ -35,6 +35,7 @@ const junayed = {
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### ⚙️ Backend
@@ -43,11 +44,7 @@ const junayed = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API%20Design-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
-![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logo=letsencrypt&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -62,24 +59,31 @@ const junayed = {
 ### 🎨 Frontend
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### 🤖 AI & DevOps
-![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+### 🔐 Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logo=letsencrypt&logoColor=white)
+
+### 🤖 AI Integration
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-F05032?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -128,9 +132,9 @@ const junayed = {
 |---------|-------|------|
 | Dr. IJSH | React.js, Node.js | [drijsh.com](https://drijsh.com) |
 | School App | React.js | [school-react-swart.vercel.app](https://school-react-swart.vercel.app) |
-| Opt Health | React.js, Node.js | [opthealth-gilt.vercel.app](https://opthealth-gilt.vercel.app) |
+| Opt Health | React.js | [opthealth-gilt.vercel.app](https://opthealth-gilt.vercel.app) |
 | Optilius Site | React.js | [optilius-six.vercel.app](https://optilius-six.vercel.app) |
-| React E-Commerce | React.js, Node.js | [react-ecom-ashy.vercel.app](https://react-ecom-ashy.vercel.app) |
+| React E-Commerce | React.js | [react-ecom-ashy.vercel.app](https://react-ecom-ashy.vercel.app) |
 | Fullstack Chat App | MERN, Socket.io | [fullstack-chat-app-2-w5wk.onrender.com](https://fullstack-chat-app-2-w5wk.onrender.com) |
 
 ---
