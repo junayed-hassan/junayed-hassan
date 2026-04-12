@@ -134,7 +134,7 @@ const junayed = {
 
 | Project | Stack | Link |
 |---------|-------|------|
-| Dr. IJSH | React.js, Node.js | [drijsh.com](https://drijsh.com) |
+| Dr. IJSH | React.js | [drijsh.com](https://drijsh.com) |
 | School App | React.js | [school-react-swart.vercel.app](https://school-react-swart.vercel.app) |
 | Opt Health | React.js | [opthealth-gilt.vercel.app](https://opthealth-gilt.vercel.app) |
 | Optilius Site | React.js | [optilius-six.vercel.app](https://optilius-six.vercel.app) |
