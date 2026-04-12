@@ -23,26 +23,21 @@ const junayed = {
   role        : "Full Stack Web Developer (Backend-Heavy MERN)",
   experience  : "1+ Year @ Optilius · Production-grade apps",
   location    : "Mohammadpur, Dhaka, Bangladesh",
-
-  // Strong suit — what I spend most of my time on
   backend     : ["REST API Design", "Auth Systems", "DB Architecture", "Real-time"],
-
-  // Equally comfortable on the frontend
   frontend    : ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS"],
-
   currentWork : "Toolffy — Developer Community & Product Launch Platform",
   interests   : ["Clean Code", "Scalable Systems", "AI Integration", "DevOps Basics"],
 };
 ```
 
 > I'm a **Full Stack Developer** who builds complete, production-ready web applications end-to-end.
-> My backend experience is deeper — I specialize in **REST API design, auth systems (JWT / OAuth / 2FA), PostgreSQL & MongoDB architecture, and real-time features with Socket.io** — while also being comfortable building full React.js & Next.js frontends. Currently architecting **[Toolffy](https://toolffy.com)** from scratch at Optilius.
+> My backend experience is deeper — I specialize in **REST API design, auth systems (JWT / OAuth / 2FA), PostgreSQL & MongoDB architecture, and real-time features with Socket.io** — while also being experience is deeper building full React.js & Next.js frontends. Currently architecting **[Toolffy](https://toolffy.com)** from scratch at Optilius.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend *(Primary Focus)*
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -54,7 +49,7 @@ const junayed = {
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logo=letsencrypt&logoColor=white)
 
-### 🗄️ Database *(Primary Focus)*
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -62,8 +57,9 @@ const junayed = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white)
 
-### 🎨 Frontend *(Comfortable)*
+### 🎨 Frontend
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
