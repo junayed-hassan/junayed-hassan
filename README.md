@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Junayed%20Hassan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20(MERN)&descAlignY=58&descSize=18&descColor=93c5fd&animation=fadeIn" width="100%"/>
@@ -54,7 +53,6 @@ const junayed = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white)
 
 ### 🎨 Frontend
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -171,6 +169,29 @@ const junayed = {
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Note for Recruiters:** I work **full-time at [Optilius](https://github.com/junayedoptilius)** and commit daily under my **work GitHub account** ([@junayedoptilius](https://github.com/junayedoptilius)). My personal account shows lower activity because most of my professional work lives there. Both accounts are mine.
+
+### 🏢 Work Account — [@junayedoptilius](https://github.com/junayedoptilius)
+*Daily commits to production codebases (Toolffy, client projects)*
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=junayedoptilius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=60a5fa&icon_color=34d399"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedoptilius&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=60a5fa"/>
+
+</div>
+
+<div align="center">
+
+[![Work GitHub Streak](https://streak-stats.demolab.com?user=junayedoptilius&theme=tokyonight&hide_border=true&ring=60a5fa&fire=34d399&currStreakLabel=60a5fa)](https://github.com/junayedoptilius)
+
+</div>
+
+---
+
+### 👤 Personal Account — [@junayed-hassan](https://github.com/junayed-hassan)
+*Side projects, experiments, open-source contributions*
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junayed-hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -183,6 +204,26 @@ const junayed = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=junayed-hassan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🏆 Awards & Achievements
+
+| 🏅 Award | 📍 Issued By | 📅 Year |
+|----------|------------|--------|
+| 🥇 **Best Developer Award** | Ahmed's IT Institute — Farewell Ceremony | 2025 |
+| 🎖️ **Exam Reward — Challenge** | Ahmed's IT Institute | 2024 |
+
+---
+
+## 🎓 Education & Certifications
+
+| 📚 Degree / Certificate | 🏫 Institution | 📅 Year |
+|------------------------|--------------|--------|
+| Full-Stack Web Development (MERN) | Ahmed's IT Institute, Dhaka | 2024 |
+| FullStack Developer Certificate | Coursera | 2024 |
+| Master's in Islamic Studies | Jamia Rahmania Arabia, Dhaka | 2023 |
+| Islamic Studies Certification | Jamia Rahmania Arabia, Dhaka | 2023 |
 
 ---
 
