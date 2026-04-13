@@ -20,7 +20,7 @@
 
 ```ts
 const junayed = {
-  role        : "Full Stack Web Developer (Backend-Heavy Solid-Frontend MERN)",
+  role        : "Full Stack Web Developer · Backend-Heavy MERN",
   experience  : "1+ Year @ Optilius · Production-grade apps",
   location    : "Mohammadpur, Dhaka, Bangladesh",
   backend     : ["REST API Design", "Auth Systems", "DB Architecture", "Real-time"],
