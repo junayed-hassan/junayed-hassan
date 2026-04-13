@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Full+Stack+Dev+%7C+Strong+Backend+Frontend+%7C+1%2B+Year+Production+XP;Node.js+%7C+Nest.js+%7C+TypeScript+%7C+PostgreSQL+%7C+React.js+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Full+Stack+Dev+%7C+Strong+Backend+%7C+Solid+Frontend+%7C+1%2B+Year+Production+XP;Node.js+%7C+Nest.js+%7C+TypeScript+%7C+PostgreSQL+%7C+React.js+%7C+Next.js)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@ const junayed = {
 ```
 
 > I'm a **Full Stack Developer** who builds complete, production-ready web applications end-to-end.
-> My backend experience is deeper — I specialize in **REST API design, auth systems (JWT / OAuth / 2FA), PostgreSQL & MongoDB architecture, and real-time features with Socket.io** — while also being experience is deeper building full React.js & Next.js frontends. Currently architecting **[Toolffy](https://toolffy.com)** from scratch at Optilius.
+> My backend experience is deeper — I specialize in **REST API design, auth systems (JWT / OAuth / 2FA), PostgreSQL & MongoDB architecture, and real-time features with Socket.io** — while also being highly comfortable building full React.js & Next.js frontends. Currently architecting **[Toolffy](https://toolffy.com)** from scratch at Optilius.
 
 ---
 
