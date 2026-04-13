@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Full+Stack+Dev+%7C+Strong+Backend+Focus+%7C+1%2B+Year+Production+XP;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+React.js+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Full+Stack+Dev+%7C+Strong+Backend+Frontend+%7C+1%2B+Year+Production+XP;Node.js+%7C+Nest.js+%7C+TypeScript+%7C+PostgreSQL+%7C+React.js+%7C+Next.js)](https://git.io/typing-svg)
 
 <br/>
 
