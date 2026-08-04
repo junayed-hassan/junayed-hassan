@@ -90,11 +90,11 @@ const junayed = {
 
 ## 📊 GitHub Activity
 
-> **Note for Recruiters:** I work full-time at Optilius and commit daily under my work account **[@junayedoptilius](https://github.com/junayedoptilius)**. This personal account reflects side projects and experiments. Both accounts are mine.
+> **Note for Recruiters:** I work full-time at Fonixit and commit daily under my work account **[@junayedoptilius](https://github.com/fonixitdhaka)**. This personal account reflects side projects and experiments. Both accounts are mine.
 
 <br/>
 
-**🏢 Work Account — [@junayedoptilius](https://github.com/junayedoptilius)** &nbsp;·&nbsp; *Production codebases · Toolffy · Client projects*
+**🏢 Work Account — [@junayed](https://github.com/fonixitdhaka)** &nbsp;·&nbsp; *Production codebases ·  · Client projects*
 
 <div align="center">
 
